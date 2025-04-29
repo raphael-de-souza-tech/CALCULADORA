@@ -20,4 +20,4 @@ Nesse projeto de estudo fiz uma calculadora pra brincar com números, toda vez q
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-# *Não importa o quanto você vá devagar desde que não pare. _ Confúcio*
+## *Não importa o quanto você vá devagar desde que não pare. _ Confúcio*
